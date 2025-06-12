@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Project Banner](README.png)
 
 **基于深度强化学习的无人机-无人船多智能体协同作战仿真系统**
 
